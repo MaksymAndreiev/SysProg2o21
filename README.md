@@ -9,6 +9,7 @@
 * Run ```./A.exe``` command and then ```./B.exe```
 ## Labwork 6
 Results of module 3.5 on Stepik
+![Results](https://github.com/MaksymAndreiev/SysProg2o21/blob/XA13121080/lab6/Знімок%20екрану%20з%202021-12-19%2022-16-49.png)
 ## Labwork 7
 Results of module 4.6 on Stepik
 ![Results](https://github.com/MaksymAndreiev/SysProg2o21/blob/XA13121080/lab7/Знімок%20екрану%20з%202021-12-19%2020-33-09.png)
