@@ -13,9 +13,7 @@ int main(int argc, char **argv) {
     cmdlen += strlen(argv[1]);
     cmdlen += strlen(argv[2]);
     char *command = malloc(cmdlen);
-    /* checking for NULL is recommended but pointless on Linux */
 
-    /* there's no sane shell escape in fucking C */
     snprintf(command, cmdlen, "'%s' '%s'", argv[1], argv[2]);
 
     FILE *p;
