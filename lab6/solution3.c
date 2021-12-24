@@ -27,7 +27,7 @@ int main(int argc, char **argv)
             }
             pid = atoi(strstr(str_p, "\t") + 1);
             printf("%d\n", pid);
-            str_p[0] = 0;                                       // !!!
+            str_p[0] = 0;
             fclose(fd);
         }
         else {
